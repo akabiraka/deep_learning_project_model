@@ -4,6 +4,9 @@ Deep Learning Project Model
 ## What it does?
 Simply this is template of a deep learning project. It contains no particular code excepts some packages, basic module and top view run and tester file. So basically this project requires to understand directories so that you can put codes in correct directory.
 
+## Extra notes
+Every files test cases should be bottom of that file.
+
 ## Directories, modules and packages
 ```
 configs/
