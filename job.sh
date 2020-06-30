@@ -1,7 +1,7 @@
+#!/usr/bin/sh
+
 ## this must be run from directory where run.py exists.
 ## --workdir is not used in this file.
-
-#!/usr/bin/sh
 
 #SBATCH --job-name=project_name
 #SBATCH --qos=csqos
